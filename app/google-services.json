@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1074299456572",
+    "firebase_url": "https://mytouristguide-b1b0b.firebaseio.com",
+    "project_id": "mytouristguide-b1b0b",
+    "storage_bucket": "mytouristguide-b1b0b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1074299456572:android:eeeb2d881ff99283",
+        "android_client_info": {
+          "package_name": "com.example.saurabh.mytouristguide"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1074299456572-6025vfgvsvdh0kmgjkavk5hvoime2smr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.saurabh.mytouristguide",
+            "certificate_hash": "38e1e90eb19e3eb80cd0cc021aad7c2d972a6606"
+          }
+        },
+        {
+          "client_id": "1074299456572-cffh0vpihfip0146jjqb5u2dp34136ei.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrvSw9uGnoZGG4TdjwGFkhn4DPlVslxwI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1074299456572-cffh0vpihfip0146jjqb5u2dp34136ei.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
